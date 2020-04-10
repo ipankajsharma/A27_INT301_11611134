@@ -6,7 +6,7 @@
 2) *Classes* : Contain all the php classes for project 
     * There are Two classes in this folder : 
     * Database  : To Make connection with database and handle database.
-    * Universities : To handle search request.
+    * Jobs : To handle search request.
 3) *SQL* : which contains an files of sql database. i've imported database in different formate kinldy
     use any of them to store data in your database.
 
