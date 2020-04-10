@@ -25,3 +25,11 @@
         > by default password is: "",
     save after changes.
 4) Then open a browser and open your host in which these files exists and traverse to index.php.
+
+
+![Image description](https://raw.githubusercontent.com/ipankajsharma/A27_INT301_11611134/master/Screenshot%20(19).png)
+![Image description](https://raw.githubusercontent.com/ipankajsharma/A27_INT301_11611134/master/Screenshot%20(20).png)
+![Image description](https://raw.githubusercontent.com/ipankajsharma/A27_INT301_11611134/master/Screenshot%20(21).png)
+![Image description](https://raw.githubusercontent.com/ipankajsharma/A27_INT301_11611134/master/Screenshot%20(22).png)
+![Image description](https://raw.githubusercontent.com/ipankajsharma/A27_INT301_11611134/master/Screenshot%20(23).png)
+![Image description](https://raw.githubusercontent.com/ipankajsharma/A27_INT301_11611134/master/Screenshot%20(24).png)
