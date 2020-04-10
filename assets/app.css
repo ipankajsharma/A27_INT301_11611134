@@ -1,0 +1,89 @@
+.section {
+    padding: 1rem;
+}
+
+.section-main {
+    width: 100vw;
+    height: 100vh;
+    background: #eaf5f3;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 0;
+}
+
+.section-main form {
+    width: 70%;
+    display: block;
+    margin: auto;
+}
+
+@media screen and (max-width: 768px) {
+    .section-main form {
+        width: 100%;
+    }
+}
+
+.section-main form .button.button.is-medium.is-inverted {
+    color: #757575;
+}
+
+.section-main form .button.button.is-medium.is-inverted:hover {
+    color: royalblue;
+    border: 1px solid royalblue;
+}
+
+.section-main form>h5 {
+    color: #757575;
+
+}
+
+.input,
+.select,
+select,
+.textarea {
+    border-color: #e7e7e7;
+    border-radius: 4px;
+    outline: 0;
+    resize: none;
+    margin-bottom: 1.25rem;
+    display: block;
+    overflow: hidden;
+}
+
+.select:focus,
+.textarea:focus,
+.input:focus {
+    outline: none;
+    border-color: #aaaaaa;
+    box-shadow: none
+}
+
+.jobs {
+    max-width: 900px;
+    display: block;
+    margin: auto;
+    margin: 10rem auto;
+}
+
+.jobs .media:not(:last-child) {
+    margin-bottom: 1rem;
+}
+
+.jobs .media .content {
+    border: 1px solid #eeeeee;
+    border-radius: 6px;
+    padding: 1rem;
+    background: #f9f9f9;
+}
+
+.media+.media {
+    border-top: 0px;
+}
+
+.jobs>h5 {
+    color: #757575;
+    padding-bottom: 0.7rem;
+    padding-left: 0.5rem;
+    border-bottom: 2px solid #f1eeee;
+}
